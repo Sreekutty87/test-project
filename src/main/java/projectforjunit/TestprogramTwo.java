@@ -10,6 +10,8 @@ public class TestprogramTwo {
 		int number2=sc.nextInt();
 		int sum=number1+number2;
 		System.out.println("sum="+sum);
+		int result=number1-number2;
+		System.out.println("result="+result);
 		
 		
 	}
