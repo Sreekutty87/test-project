@@ -12,6 +12,7 @@ public class TestprogramTwo {
 		System.out.println("sum="+sum);
 		int result=number1-number2;
 		System.out.println("result="+result);
+		System.out.println("this is an updated code to test my git skills of committing a new branch");
 		
 		
 	}
